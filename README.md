@@ -6,9 +6,10 @@
 
   <h2 align="center">TRAVEL PARADICE - Travel website</h2>
 
-  Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Travel Paradice is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://devanshucodes.github.io/travel-paradice/"><strong>➥ Live Demo</strong></a>
+
 
 </div>
 
@@ -16,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Tourest Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Travel Paradice Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -26,23 +27,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Tourest** locally, run this command on your git bash:
+To run **Travel paradice** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourest.git
+sudo git clone https://github.com/devanshucodes/travel-paradice.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourest.git
+git clone https://github.com/devanshucodes/travel-paradice.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/devanshucodes).
 
 ### License
 
