@@ -15,9 +15,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Travel Paradice Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
